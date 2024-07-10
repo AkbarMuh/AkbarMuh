@@ -1,8 +1,8 @@
 <h4 align="center"><samp> Greetings, curious coder! 👋🏾 Welcome to my GitHub realm, where the magic of AI meets the wonders of Web Development. I'm a Professional dedicated to creating cutting-edge solutions and tackling the wildest coding challenges 🌐 🤖 </samp></h4>
 
 <p align="center">
-  <a href="https://tenor.com/id/view/will-smith-eating-spaghetti-will-smith-spaghetti-ai-gif-12546117032276153065">
-    <img src="https://media.tenor.com/id/images/4e17d70e6bbf83ae94dd3d6ec89f4c29/tenor.gif" width="480" height="350">
+  <a href="https://giphy.com/gifs/fallout-coffees-edits-originals-OHL8ryXhmbu3C">
+    <img src="https://media.giphy.com/media/OHL8ryXhmbu3C/giphy.gif" width="480" height="350">
   </a>
 </p>
 
