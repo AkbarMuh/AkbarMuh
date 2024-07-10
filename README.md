@@ -1,44 +1,35 @@
-# [Your Name](https://yourwebsite.com)
 
-![Your Banner Image](https://your-banner-image.png)
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
 
-Hi there! I'm a [Your One-Liner Description] with a passion for [Your Interests].
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
-## Skills & Languages
 
-* [Skill 1] ([Badge URL]) - [Proficiency Level]
-* [Skill 2] ([Badge URL]) - [Proficiency Level]
-* [Skill 3] ([Badge URL]) - [Proficiency Level]
+<p align="center">
+<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+</p>
 
-## Featured Projects
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
 
-### [Project 1 Name]([Project 1 Repository URL])
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+ -->
+<!--
+**ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[Brief Project Description]
+Here are some ideas to get you started:
 
-* [Key Feature 1]
-* [Key Feature 2]
-* [Key Feature 3]
-
-### [Project 2 Name]([Project 2 Repository URL])
-
-[Brief Project Description]
-
-* [Key Feature 1]
-* [Key Feature 2]
-* [Key Feature 3]
-
-## Stats (Optional)
-
-[Your GitHub Stats Badge or Generator URL]
-
-## Connect
-
-* [LinkedIn](https://your-linkedin-profile-url)
-* [Twitter](https://your-twitter-profile-url)
-* [Email](mailto:youremail@example.com)
-
-## Call to Action
-
-Star this repo if you find it useful!
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
