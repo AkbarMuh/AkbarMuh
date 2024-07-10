@@ -13,11 +13,12 @@ Sure! Here's a longer and more fun version of your GitHub profile README, with a
 </samp></p>
 
 <p align="center">
-<a href="https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href="https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href="https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+<a href=""><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href=""><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href=""><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
 
+<iframe src="https://giphy.com/embed/OHL8ryXhmbu3C" width="480" height="350" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallout-coffees-edits-originals-OHL8ryXhmbu3C">via GIPHY</a></p>
 <p align="center"><samp>
   I'm on a mission to push the boundaries of technology and share my knowledge with the community. Join me on this exciting journey, explore my repositories, and let's build something amazing together!  
 </samp></p>
